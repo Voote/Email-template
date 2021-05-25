@@ -20,9 +20,12 @@ This project was quite tricky, because email could look diffrent in diffrent ema
 
 To create this template I used mostly HTML with in-line styles. There is some media query in style tag as well, however, a few older email clients may not be compatible with it.
 
-I found a couple of usefool tools witch helped me to create this code:
-https://app.postdrop.io/ for dynamic preview,
-https://www.htmlemailcheck.com/ to found all dangerous code,
-https://templates.mailchimp.com/resources/inline-css/ to convert styles into inline styles.
+> I found a couple of usefool tools witch helped me to create this code:
+>
+> > https://app.postdrop.io/ for dynamic preview,
+> >
+> > https://www.htmlemailcheck.com/ to found all dangerous code,
+> >
+> > https://templates.mailchimp.com/resources/inline-css/ to convert styles into inline styles.
 
 Feel free to reuse my code and thank you for visiting.
